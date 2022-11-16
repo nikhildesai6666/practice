@@ -11,10 +11,10 @@ namespace practice
         static void Main(string[] args)
         {
             Console.WriteLine("enter no");
-            
-            
+            Console.WriteLine("enter no");
 
-            
+
+
 
 
         }
